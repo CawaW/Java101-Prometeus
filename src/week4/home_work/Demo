@@ -1,0 +1,5 @@
+package week4.home_work;
+
+public class Demo {
+	public enum Seasons {SPRING, WINTER;}
+}
